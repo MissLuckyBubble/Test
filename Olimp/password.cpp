@@ -20,7 +20,7 @@ using namespace std;
 		else
 			return false;
 	}
-	void main()
+	void main() //s
 	{
 		char pass[101];
 
